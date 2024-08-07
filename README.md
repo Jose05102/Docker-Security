@@ -77,7 +77,3 @@ To maximize security, adhere to the following best practices:
 - **Regularly Update Images:** Keep your Docker images up to date to incorporate security patches and improvements.
 - **Limit Container Capabilities:** Use Docker's security options to restrict the capabilities and resources of containers.
 
-By following these practices, you ensure that your containerized application remains secure, efficient, and resilient against potential threats.
-```
-
-Este `README.md` incluye una explicación más detallada sobre la configuración, la construcción, y la seguridad de los contenedores Docker, además de sugerencias para mantener la aplicación segura y actualizada.

@@ -1,6 +1,4 @@
-Claro, aquí tienes una versión más extensa y detallada del `README.md`:
 
-```markdown
 # Docker_security
 
 ## Overview
